@@ -1,0 +1,2 @@
+# solana-nft-mint-bot
+SOLANA NFT MINT BOT | NEW UPDATE BOT | AUTO FARM | TUTORIAL
